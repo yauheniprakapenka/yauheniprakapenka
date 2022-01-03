@@ -1,7 +1,7 @@
 ### Всем привет! 👋
 
 - 🔭 Работаю Flutter разработчиком в компании Intervale 
-- 🍀 В свободное время читаю книги и статьи по программированию
+- 🍀 В свободное время читаю техническую литературу
 - 📫 Связаться со мной: yauheni.prakapenka@gmail.com | [linkedin](https://www.linkedin.com/in/yauheni-prakapenka/)
 
 
