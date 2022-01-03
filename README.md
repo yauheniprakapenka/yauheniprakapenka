@@ -1,6 +1,10 @@
+<p>
+  <img src="https://user-images.githubusercontent.com/47568606/147969484-0fea426d-d9fd-494b-8691-9661fb16b6d1.png" width=600
+</p> 
+
 ### Всем привет! 👋
 
-- 🔭 Работаю Flutter разработчиком в компании Intervale 
+- 🔭 Я работаю Flutter разработчиком в компании Intervale 
 - 🍀 В свободное время читаю техническую литературу
 - 📫 Связаться со мной: yauheni.prakapenka@gmail.com | [linkedin](https://www.linkedin.com/in/yauheni-prakapenka/)
 
