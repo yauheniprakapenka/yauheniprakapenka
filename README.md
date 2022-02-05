@@ -8,20 +8,30 @@
   height="32"/>
 </h3>
 
-<h6 
-  align="left">Работаю Flutter разработчиком в Гомеле 🇧🇾
-</h6>
+Работаю Flutter разработчиком в Гомеле 🇧🇾
 
 <img src="https://user-images.githubusercontent.com/47568606/152641563-4e94cf7c-d51d-481c-810b-e572937e5fa0.jpg" height=160>
 
 ## Обо мне
 
-Воплощаю свои идеи на GitHub с помощью кода.
-
 <b>Skills</b> : DART / FLUTTER
+
+Воплощаю свои идеи на GitHub с помощью кода.
  
-- 🔭 Работаю над pet-проектом библиотеки входа по ключу доступа для мобильных приложений.
-- 🌱 Изучаю Flutter и присматриваюсь к плотному изучению Android.
+- 🔭 Изучаю Dart и Flutter. Лучшие проекты:
+
+Writers App
+
+[<img src='https://user-images.githubusercontent.com/47568606/152643662-08bb350a-d0f4-4449-9418-8379ceeeb633.png' height='180'>](https://github.com/yauheniprakapenka/flutter_writers)
+
+Passcoe App
+
+[<img src='https://user-images.githubusercontent.com/47568606/152644028-720f6706-182a-4935-abbb-d298187b82f9.jpg' height='180'>](https://github.com/yauheniprakapenka/flutter_passcodes)
+
+Credit Card Scanner
+
+[<img src='https://raw.githubusercontent.com/yauheniprakapenka/card_scanner_v2/main/.github/ui.jpg' height='180'>](https://github.com/yauheniprakapenka/card_scanner_v2)
+
 - 📚 В свободное время читаю около техническую литературу. Прочитал книги:
 
 2022 год:
@@ -45,4 +55,4 @@ generator: https://github.com/arturssmirnovs/github-profile-readme-generator
 
 ## Связаться со мной
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yauheniprakapenka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yauheni-prakapenka//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11725354)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/yauheniprakapenka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](yauheni.prakapenka@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yauheniprakapenka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yauheni-prakapenka//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/11725354)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/yauheniprakapenka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg' alt='google' height='40'>](mailto:yauheni.prakapenka@gmail.com)  
