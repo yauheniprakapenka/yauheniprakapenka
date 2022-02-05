@@ -26,7 +26,7 @@ Writers App
 
 Passcoe App
 
-[<img src='https://user-images.githubusercontent.com/47568606/152644028-720f6706-182a-4935-abbb-d298187b82f9.jpg' height='180'>](https://github.com/yauheniprakapenka/flutter_passcodes)
+[<img src='https://user-images.githubusercontent.com/47568606/152644028-720f6706-182a-4935-abbb-d298187b82f9.jpg' height='180'>](https://github.com/yauheniprakapenka/flutter_passcode)
 
 Credit Card Scanner
 
