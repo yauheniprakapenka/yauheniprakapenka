@@ -18,21 +18,19 @@
 
 Воплощаю свои идеи на GitHub с помощью кода.
  
-- 🔭 Изучаю Dart и Flutter. Лучшие проекты:
+## 🔭 Изучаю Dart и Flutter. 
 
-Writers App
+Лучшие проекты:
 
-[<img src='https://user-images.githubusercontent.com/47568606/152643662-08bb350a-d0f4-4449-9418-8379ceeeb633.png' height='180'>](https://github.com/yauheniprakapenka/flutter_writers)
+[<img src="https://user-images.githubusercontent.com/47568606/152845710-6e508179-478b-412c-a301-1b1eeac74891.png" height="200">](https://github.com/yauheniprakapenka/flutter_passcode)
 
-Passcoe App
+[<img src="https://user-images.githubusercontent.com/47568606/152846289-c51f681a-bc23-494c-a0e1-3a12608c1a9b.png" height='200'>](https://github.com/yauheniprakapenka/flutter_writers)
 
-[<img src='https://user-images.githubusercontent.com/47568606/152644028-720f6706-182a-4935-abbb-d298187b82f9.jpg' height='180'>](https://github.com/yauheniprakapenka/flutter_passcode)
+[<img src='https://user-images.githubusercontent.com/47568606/152847111-a9b3f4db-da6f-45a2-8b4c-dfebff5b01ef.png' height='201'>](https://github.com/yauheniprakapenka/card_scanner_v2)
 
-Credit Card Scanner
+## 📚 Читаю около техническую литературу. 
 
-[<img src='https://raw.githubusercontent.com/yauheniprakapenka/card_scanner_v2/main/.github/ui.jpg' height='180'>](https://github.com/yauheniprakapenka/card_scanner_v2)
-
-- 📚 В свободное время читаю около техническую литературу. Прочитал книги:
+Понравились книги:
 
 2022 год:
 
@@ -45,8 +43,6 @@ Credit Card Scanner
 ## Моя статистика
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yauheniprakapenka&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/yauheniprakapenka)   [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11725354)](https://stackoverflow.com/users/11725354/yauheni-prakapenka)
 
 <!--
 Оформляем README: https://habr.com/ru/post/649363/
