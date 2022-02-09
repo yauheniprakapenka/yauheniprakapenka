@@ -28,18 +28,6 @@
 
 [<img src='https://user-images.githubusercontent.com/47568606/152847111-a9b3f4db-da6f-45a2-8b4c-dfebff5b01ef.png' height='201'>](https://github.com/yauheniprakapenka/card_scanner_v2)
 
-## 📚 Читаю около техническую литературу. 
-
-Понравились книги:
-
-2022 год:
-
-<img src="https://user-images.githubusercontent.com/47568606/152643183-abcf654e-27ea-485a-9ee0-2f2ea55187d6.jpg" height=140>
-
-2021 год:
-
-<img src="https://user-images.githubusercontent.com/47568606/152642789-68d4b083-99fd-45f2-8e17-65019971b2ca.jpg" height=140>
-
 ## Моя статистика
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yauheniprakapenka&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
