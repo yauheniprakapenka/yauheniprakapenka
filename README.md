@@ -1,7 +1,14 @@
 <p
-  align=left>
+  align=center>
+  <img src="dog.gif" // К сожалению, не знаю имени автора данной анимации
+  height=200>
+</p>
+
+<p
+  align=center>
   <img src="https://komarev.com/ghpvc/?username=yauheniprakapenka" 
-</p>  
+</p>
+  
 <h3 
   align="left">Привет, меня зовут Пракопенко Евгений
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" 
