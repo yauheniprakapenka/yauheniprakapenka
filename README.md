@@ -1,6 +1,6 @@
 <p
   align=center>
-  <img src="dog.gif" // К сожалению, не знаю имени автора данной анимации
+  <img src="dog.gif" // Автор https://www.linkedin.com/in/makutamax/
   height=200>
 </p>
 
