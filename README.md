@@ -16,7 +16,7 @@
 
 |Проект|Мотивация|Обложка|
 |   -   |   -   |   - |
-|[OSON movie](https://github.com/yauheniprakapenka/happy_birthday_movie)|В разработке 🔥<br>Изучение работы с анимацией|<img src="https://user-images.githubusercontent.com/47568606/154470218-703acb98-9b46-465a-ba39-4d3dcfef4c5d.png" height=80>|
+|[OSON movie](https://github.com/yauheniprakapenka/happy_birthday_movie)|Изучение работы с анимацией|<img src="https://user-images.githubusercontent.com/47568606/154470218-703acb98-9b46-465a-ba39-4d3dcfef4c5d.png" height=80>|
 |[Weather App](https://github.com/yauheniprakapenka/flutter_weather_app)|🏆 лучший проект<br>Изучение работы с API, шаринг текста, создание кастомных виджетов|<img src="https://user-images.githubusercontent.com/47568606/155134262-11f768f7-e68d-49bb-9007-310873057558.png" height=80>|  
 |[Passcode](https://github.com/yauheniprakapenka/flutter_passcode)|Изучение работы со стейт-менеджером BLoC|<img src="https://user-images.githubusercontent.com/47568606/152845710-6e508179-478b-412c-a301-1b1eeac74891.png" height=80>|
 |[Writers](https://github.com/yauheniprakapenka/flutter_writers)|Изучение чистой архитектуры, создание консольного приложения|<img src="https://user-images.githubusercontent.com/47568606/152846289-c51f681a-bc23-494c-a0e1-3a12608c1a9b.png" height=80>|
