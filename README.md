@@ -3,14 +3,9 @@
   <img src="dog.gif" // Автор https://www.linkedin.com/in/makutamax/
   height=200>
 </p>
-
-<p
-  align=center>
-  <img src="https://komarev.com/ghpvc/?username=yauheniprakapenka" 
-</p>
   
 Привет, меня зовут Пракопенко Евгений  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" 
-  height="32"/> Работаю Flutter разработчиком в Гомеле 🇧🇾
+  height="32"/>Я работаю Flutter разработчиком.
  
 ## 🐣 Лучшие Flutter pet-проекты:
 
@@ -21,7 +16,7 @@
 |[Passcode](https://github.com/yauheniprakapenka/flutter_passcode)|Изучение работы со стейт-менеджером BLoC|<img src="https://user-images.githubusercontent.com/47568606/152845710-6e508179-478b-412c-a301-1b1eeac74891.png" height=80>|
 |[Writers](https://github.com/yauheniprakapenka/flutter_writers)|Изучение чистой архитектуры, создание консольного приложения|<img src="https://user-images.githubusercontent.com/47568606/152846289-c51f681a-bc23-494c-a0e1-3a12608c1a9b.png" height=80>|
 |[Card Scanner](https://github.com/yauheniprakapenka/card_scanner_v2)|Восстановление работы чужой заброшенной библиотеки для сканирования кредитной карты|<img src="https://github.com/yauheniprakapenka/card_scanner_v2/raw/main/.github/ui.jpg" height=80>|
-|[Card Scanner](https://github.com/yauheniprakapenka/card_scanner_v1)|Изучение работы Flutter channel|<img src="https://github.com/yauheniprakapenka/card_scanner_v1/raw/main/demo/images/ios.jpg" height=80>|
+|[Card Scanner](https://github.com/yauheniprakapenka/card_scanner_v1)|Изучение работы Flutter channel|<img src="https://github.com/yauheniprakapenka/card_scanner_v1/blob/main/.github/images/ios.jpg" height=80>|
 
 ## 🔭 Участие в разработке Flutter production-проектах:
 
