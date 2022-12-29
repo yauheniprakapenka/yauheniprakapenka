@@ -11,6 +11,7 @@
 
 |Проект|Мотивация|Скриншоты|
 |   -   |   -   |   - |
+|[Newbie](https://github.com/yauheniprakapenka/newbie)|Изучение создания 2d игр с Flutter Flame|<img src="https://user-images.githubusercontent.com/47568606/209988735-ee37225a-fbe0-4935-8181-4b3755eb92f6.png" height=80>|
 |[OSON movie](https://github.com/yauheniprakapenka/happy_birthday_movie)|Изучение работы с анимацией|<img src="https://user-images.githubusercontent.com/47568606/154470218-703acb98-9b46-465a-ba39-4d3dcfef4c5d.png" height=80>|
 |[Weather App](https://github.com/yauheniprakapenka/flutter_weather_app)|🏆 лучший проект<br>Изучение работы с API, шаринг текста, создание кастомных виджетов|<img src="https://user-images.githubusercontent.com/47568606/155134262-11f768f7-e68d-49bb-9007-310873057558.png" height=80>|  
 |[Passcode](https://github.com/yauheniprakapenka/flutter_passcode)|Изучение работы со стейт-менеджером BLoC|<img src="https://user-images.githubusercontent.com/47568606/152845710-6e508179-478b-412c-a301-1b1eeac74891.png" height=80>|
